@@ -3,3 +3,4 @@ gitファイルを初めて作ります。
 ・gid add
 ・gid commit
 ・git rm
+・git status
