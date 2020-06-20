@@ -1,6 +1,7 @@
 gitファイルを初めて作ります。
 基本的なワークフローを学んでいきます。
 ・gid add
-・gid commit
-・git rm
-・git status
+・gid commit   #gitにcommit
+・git rm       #remove
+・git status  #現在の状態の表示
+・git diff  #差分を表示
